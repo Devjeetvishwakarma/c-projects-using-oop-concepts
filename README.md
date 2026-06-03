@@ -1,2 +1,2 @@
-# c-projects-using-oop-concepts
+# c++-projects-using-oop-concepts
 student management system 
